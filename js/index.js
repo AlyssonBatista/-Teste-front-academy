@@ -1,5 +1,5 @@
-const langEl = document.querySelector('.idioma','.lista');
-const link = document.querySelectorAll('a','strong');
+const langEl = document.querySelector('.idioma');
+const link = document.querySelectorAll('a');
 
 
 const titleEl = document.querySelector('.titulo');
@@ -68,7 +68,7 @@ var data = {
     "li2": "Entrega dos projeteis: 25 e 26 de novembro",
     "li3": "Divulgação dos finalistas: 28 de novembro",
     "li4": "Apresentação final: 2 de dezembro",
-
+    
     "titulo2": "Iniciativa do Instituto Vertere",
     "descricao2": "Somos uma olimpíada afiliada da Sapientia, a Olimpíada do Futuro. A Sapientia é uma iniciativa realizada pelo Instituto Vertere e tem como base a Agenda 2030 da Organização das Nações Unidas – ONU. A competição aborda as disciplinas estudadas em sala de aula a partir de uma perspectiva conectada às questões do nosso tempo e enriquecida pela visão de pensadores do século 21.",
 
